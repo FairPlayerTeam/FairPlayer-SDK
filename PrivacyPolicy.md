@@ -36,7 +36,8 @@ We take precautions — including administrative, technical, and physical measur
 
 When you use some products, services, or post your comments, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features.
 
-OUR COMPANYWIDE COMMITMENT TO YOUR PRIVACY
+OUR COMMITMENT TO YOUR PRIVACY
+------------------------------
 
 To make sure your personal information is secure we communicate our privacy and security guidelines to all employees and strictly enforce privacy safeguards within the company.
 
