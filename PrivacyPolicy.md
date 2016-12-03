@@ -8,7 +8,7 @@ PERSONAL INFORMATION
 
 Personal information is data that can be used to uniquely identify or contact a single person.
 
-We *DO NOT* collect, store or use any personal information while you visit, download or upgrade our website or our products or apps, excepting the personal information that you submit to us when you create a user account, send an error report or participate in online surveys and other activities.
+We **DO NOT** collect, store or use any personal information while you visit, download or upgrade our website or our products or apps, excepting the personal information that you submit to us when you create a user account, send an error report or participate in online surveys and other activities.
 
 In the following circumstances, we may disclose your personal information according to your wish or regulations by law:
 
@@ -23,7 +23,7 @@ In the following circumstances, we may disclose your personal information accord
 NON-PERSONAL INFORMATION
 ------------------------
 
-Non-personal information is data in a form that does not permit direct association with any specific individual, such as your Android ID, CPN model, memory size, your phone IMEI number, phone model, rom, phone operator, location, installs, uninstalls, frequency of use, etc.
+Non-personal information is data in a form that does not permit direct association with any specific individual, such as your CPN model, memory size, phone model, rom, phone operator, location, installs, uninstalls, frequency of use, etc.
 
 We may collect and use non-personal information in the following circumstances: to have a better understanding of our user’s behaviour, solve problems in products and services, improve our products, services and advertising; we may collect non-personal information such as the date of install, frequency of use, country, equipment and channel.
 
