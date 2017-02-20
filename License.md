@@ -73,6 +73,7 @@ Assuming you have just created a **pink** theme for FairPlayer here are some the
 
   - **BAD**
     - **FairPlayer Pink**: theme names must **NOT** start with FairPlayer
+    - **Pink FairPlayer**: users should know this is a theme, not a standalone application
     - **Pink Theme**: too generic, users should know what they are installing
 
 Failure to comply with these naming policies will **likely** get your themes and/or Google Play developer account **suspended**.
