@@ -9,7 +9,7 @@ You can download the most recent version of FairPlayer on Google Play.
 We have included a complete Eclipse project with:
 
   - All the necessary resources
-  - The "Apply theme" mechanism
+  - The "**Apply theme**" mechanism
   - The complete ProGuard configuration
 
 # Get creative!
