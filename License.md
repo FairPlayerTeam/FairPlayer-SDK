@@ -15,8 +15,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-# 2. FairPlayer Logo
-The **FairPlayer Logo** <img src="https://github.com/FairPlayerTeam/FairPlayer-SDK/raw/master/fairplayer-logo.png" width="48"> can be used, reproduced, and modified freely in marketing communications.
+# 2. FairPlayer Logo <img src="https://github.com/FairPlayerTeam/FairPlayer-SDK/raw/master/fairplayer-logo.png" width="40">
+The **FairPlayer Logo** can be used, reproduced, and modified freely in marketing communications.
 
 When using the FairPlayer Logo or any modification of it, proper attribution is required under the terms of the **[Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)**:
 
