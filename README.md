@@ -54,7 +54,7 @@ under the following conditions:
     - Do not imply either in the Google Play Store listing (theme description and/or any visual element) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.) a direct relationship with FairPlayer's creators
   - You make sure that the **FairPlayer Logo** does not cover more than 25% of your theme's icon
 
-Your theme can also be compatible with other 3rd party applications as long as it retains compatibility with FairPlayer.
+Your theme can also be compatible with other 3rd party applications as long as it retains **full compatibility** with FairPlayer.
 
 ### Usage Notes
 
