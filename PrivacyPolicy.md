@@ -1,10 +1,8 @@
-PRIVACY POLICY
-==============
+# FairPlayer - PRIVACY POLICY
 
 Your privacy is important to us and we are committed to protecting your privacy. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
-PERSONAL INFORMATION
---------------------
+## PERSONAL INFORMATION
 
 Personal information is data that can be used to uniquely identify or contact a single person.
 
@@ -20,8 +18,7 @@ In the following circumstances, we may disclose your personal information accord
 
 4. To protect our legal rights and interests.
 
-NON-PERSONAL INFORMATION
-------------------------
+## NON-PERSONAL INFORMATION
 
 Non-personal information is data in a form that does not permit direct association with any specific individual, such as your CPN model, memory size, phone model, rom, phone operator, location, installs, uninstalls, frequency of use, etc.
 
@@ -29,20 +26,17 @@ We may collect and use non-personal information in the following circumstances: 
 
 If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-PROTECTION OF PERSONAL INFORMATION
-----------------------------------
+## PROTECTION OF PERSONAL INFORMATION
 
 We take precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
 
 When you use some products, services, or post your comments, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features.
 
-OUR COMMITMENT TO YOUR PRIVACY
-------------------------------
+## OUR COMMITMENT TO YOUR PRIVACY
 
 To make sure your personal information is secure we communicate our privacy and security guidelines to all employees and strictly enforce privacy safeguards within the company.
 
-PRIVACY QUESTIONS
------------------
+## PRIVACY QUESTIONS
 
 If you have any questions or concerns about our Privacy Policy or data processing, please contact us.
 
