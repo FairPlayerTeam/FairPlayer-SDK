@@ -39,7 +39,9 @@ You are **free** to use the **FairPlayer** name anywhere inside the **themes** y
     - Application icon
     - Application screenshots
     - Application feature image
-  - Your theme's resources
+  - Your theme's resources:
+    - Drawables
+    - Strings
 
 under the following conditions:
 
