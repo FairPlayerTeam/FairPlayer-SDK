@@ -28,7 +28,7 @@ Please make sure that the **FairPlayer Logo** does not cover more than 25% of yo
 
 # 3. The "FairPlayer" mark
 
-The **FairPlayer** name can only be used to uniquely identify **themes** that are compatible with the **[FairPlayer Music Player](https://play.google.com/store/apps/details?id=com.fairplayer)** application.
+The **FairPlayer** name can only be used to uniquely identify **themes** that are compatible with the **[FairPlayer Music Player](https://play.google.com/store/apps/details?id=com.fairplayer)** application using **this SDK**.
 
 You are **free** to use the **FairPlayer** name anywhere inside the **themes** you create including:
 
