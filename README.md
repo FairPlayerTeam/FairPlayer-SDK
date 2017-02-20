@@ -57,6 +57,8 @@ under the following conditions:
 
 Your theme can also be compatible with other 3rd party applications as long as it retains **full compatibility** with FairPlayer.
 
+We are making the **FairPlayer Theme SDK** available to the public free of charge so that anyone can create themes for FairPlayer and publish them on Google Play but not in a way that harms any user or our brand.
+
 ### Usage Notes
 
 Please respect Google Play's **naming conventions**.
