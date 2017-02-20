@@ -1,4 +1,4 @@
-The **FairPlayer Theme SDK** is governed by these licenses:
+The **FairPlayer Theme SDK** is governed by these terms and licenses:
 
 # 1. FairPlayer Theme SDK source code
 **Copyright 2016-2017 FairPlayer Team**
