@@ -55,7 +55,7 @@ under the following conditions:
 
 Your theme can also be compatible with other 3rd party applications as long as it retains **full compatibility** with FairPlayer.
 
-### "FairPlayer" mark Usage Notes
+### Usage Notes
 
 The usage of the "FairPlayer" mark should be in accordance with Google Play's **[Policies regarding Intellectual Property, Deception and Spam](https://play.google.com/about/ip-deception-spam/impersonation-ip/)**.
 
