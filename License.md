@@ -55,7 +55,7 @@ under the following conditions:
     - In **any form of communication** (e-mail, social media, blogs, vlogs, interviews, forums, websites, written or printed media etc.) in **any context** with **any third party**
   - You do not use a developer name similar to "**FairPlayer Team**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
 
-Your theme can also be compatible with other 3rd party applications as long as it retains **full compatibility** with FairPlayer.
+Your theme can also be compatible with other third party applications as long as it retains **full compatibility** with FairPlayer.
 
 ### Usage Notes
 
