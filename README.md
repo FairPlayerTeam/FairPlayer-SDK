@@ -14,7 +14,7 @@ We have included a complete Eclipse project with:
 
 # Get creative!
 
-FairPlayer is one of the most powerful and customizable music players ever developed for Android and its growing popularity makes it an ideal partner for Mobile Design Studios focused on developing personalization applications (themes).
+FairPlayer is one of the most powerful and customizable music players ever developed for Android and its growing popularity makes it an ideal partner for Mobile Design Studios focused on developing personalization applications (**themes**).
 
 Developing a theme for FairPlayer is really easy:
 
@@ -40,7 +40,7 @@ anywhere inside the **themes** you create including:
     - Application icon
     - Application screenshots
     - Application feature image
-   - Your theme's resiyrces
+   - Your theme's resources
 
 under the following conditions:
 
@@ -51,8 +51,8 @@ under the following conditions:
     - The end user can actually **apply and use** your theme with FairPlayer
   - You **never imply a direct relationship** with FairPlayer's creators
     - Do not use a developer name similar to "**FairPlayer Team**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
-    - Do not imply either in the Google Play Store listing (app description and/or any visual element) or inside the application (menu elements, text or visual elements, app notifications, Toast notifications etc.) a direct relationship with the FairPlayer's creators
-  - You make sure that the **FairPlayer Logo** does not cover more than 25% of your app's icon
+    - Do not imply either in the Google Play Store listing (theme description and/or any visual element) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.) a direct relationship with the FairPlayer's creators
+  - You make sure that the **FairPlayer Logo** does not cover more than 25% of your theme's icon
 
 Your theme can also be compatible with other 3rd party applications as long as it retains compatibility with FairPlayer.
 
@@ -71,4 +71,4 @@ Assuming you have just created a Pink theme for FairPlayer here are some naming 
     - **FairPlayer Pink**: theme names must **NOT** start with FairPlayer
     - **Pink Theme**: too generic, users should know what they are installing
 
-Failure to comply with these naming restrictions **could** get your apps and/or Google Play developer account **suspended**.
+Failure to comply with these naming restrictions **could** get your themes and/or Google Play developer account **suspended**.
