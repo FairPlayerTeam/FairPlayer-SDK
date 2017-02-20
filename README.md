@@ -51,7 +51,7 @@ under the following conditions:
     - The end user can actually **apply and use** your theme with FairPlayer
   - You **never imply a direct relationship** with FairPlayer's creators
     - Do not use a developer name similar to "**FairPlayer Team**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
-    - Do not imply either in the Google Play Store listing (theme description and/or any visual element) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.) a direct relationship with FairPlayer's creators
+    - Do not imply either in the Google Play Store listing (theme description and/or any visual elements) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.) a direct relationship with FairPlayer's creators
     - Do not imply a direct relationship with FairPlayer's creators in **any form of communication** (e-mail, social media, blogs, vlogs, interviews, forums, websites, written or printed media etc.) in **any context** with **any third party**
   - You make sure that the **FairPlayer Logo** does not cover more than 25% of your theme's icon
 
@@ -62,7 +62,9 @@ We are making the **FairPlayer Theme SDK** available to the public free of charg
 ### Usage Notes
 
 Please respect Google Play's **naming conventions**.
-Assuming you have just created a Pink theme for FairPlayer here are some naming examples:
+
+Assuming you have just created a **pink** theme for FairPlayer here are some theme names you could consider:
+
   - **GOOD**
     - Pink FairPlayer **Theme**
     - Pink FairPlayer **Skin**
@@ -70,6 +72,7 @@ Assuming you have just created a Pink theme for FairPlayer here are some naming 
     - Pink **theme for** FairPlayer
     - Pink Player Skin
     - Pink Player Theme
+
   - **BAD**
     - **FairPlayer Pink**: theme names must **NOT** start with FairPlayer
     - **Pink Theme**: too generic, users should know what they are installing
