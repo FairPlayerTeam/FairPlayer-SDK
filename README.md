@@ -26,36 +26,7 @@ No need to worry about Android 4 / Android 5+ compatibility issues or missing Ja
 
 # Usage
 
-You are **free** to use 
-
-  - the **FairPlayer** name and
-  - the **FairPlayer logo** <img src="https://github.com/FairPlayerTeam/FairPlayer-SDK/raw/master/fairplayer-logo.png" width="48">
-
-anywhere inside the **themes** you create including:
-
-  - The Google Play listing:
-    - Application title
-    - Application short description
-    - Application full description
-    - Application icon
-    - Application screenshots
-    - Application feature image
-   - Your theme's resources
-
-under the following conditions:
-
-  - You comply with Google Play's **[Terms of Service](http://play.google.com/intl/en_us/about/play-terms.html)**, **[Distribution Agreement](http://play.google.com/about/developer-distribution-agreement.html)** and **[Content Policy](https://play.google.com/about/developer-content-policy/)**
-  - Your application is **fully compatible** with FairPlayer, which means:
-    - The "Apply theme" mechanism is present and visible to the end user
-    - The resources provided with this SDK are present
-    - The end user can actually **apply and use** your theme with FairPlayer
-  - You **never imply a direct relationship** with FairPlayer's creators
-    - Do not use a developer name similar to "**FairPlayer Team**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
-    - Do not imply either in the Google Play Store listing (theme description and/or any visual elements) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.) a direct relationship with FairPlayer's creators
-    - Do not imply a direct relationship with FairPlayer's creators in **any form of communication** (e-mail, social media, blogs, vlogs, interviews, forums, websites, written or printed media etc.) in **any context** with **any third party**
-  - You make sure that the **FairPlayer Logo** does not cover more than 25% of your theme's icon
-
-Your theme can also be compatible with other 3rd party applications as long as it retains **full compatibility** with FairPlayer.
+The **FairPlayer** name can only be used to uniquely identify **theme** Android applications that are compatible with the **FairPlayer Music Player** Android application according to the **[FairPlayer SDK License](https://github.com/FairPlayerTeam/FairPlayer-SDK/blob/master/License.md)**.
 
 We are making the **FairPlayer Theme SDK** available to the public free of charge so that anyone can create themes for FairPlayer and publish them on Google Play but not in a way that harms any user or our brand.
 
