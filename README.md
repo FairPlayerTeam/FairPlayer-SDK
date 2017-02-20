@@ -26,7 +26,7 @@ No need to worry about Android 4 / Android 5+ compatibility issues or missing Ja
 
 # Usage
 
-The **FairPlayer** name can only be used to uniquely identify **theme** Android applications that are compatible with the **FairPlayer Music Player** Android application according to the **[FairPlayer SDK License](https://github.com/FairPlayerTeam/FairPlayer-SDK/blob/master/License.md)**.
+The **FairPlayer** name can only be used to uniquely identify **theme** Android applications that are compatible with the **FairPlayer Music Player** Android application according to the **[FairPlayer Theme SDK License](https://github.com/FairPlayerTeam/FairPlayer-SDK/blob/master/License.md)**.
 
 We are making the **FairPlayer Theme SDK** available to the public free of charge so that anyone can create themes for FairPlayer and publish them on Google Play but not in a way that harms any user or our brand.
 
