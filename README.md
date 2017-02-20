@@ -44,7 +44,7 @@ anywhere inside the **themes** you create including:
 
 under the following conditions:
 
-  - Your comply with Google Play's **[Terms of Service](http://play.google.com/intl/en_us/about/play-terms.html)** and **[Distribution Agreement](http://play.google.com/about/developer-distribution-agreement.html)**
+  - You comply with Google Play's **[Terms of Service](http://play.google.com/intl/en_us/about/play-terms.html)**, **[Distribution Agreement](http://play.google.com/about/developer-distribution-agreement.html)** and **[Content Policy](https://play.google.com/about/developer-content-policy/)**
   - Your application is **fully compatible** with FairPlayer, which means:
     - The "Apply theme" mechanism is present and visible to the end user
     - The resources provided with this SDK are present
