@@ -59,7 +59,7 @@ Your theme can also be compatible with other 3rd party applications as long as i
 
 The usage of the "FairPlayer" mark should be in accordance with Google Play's **[Policies regarding Intellectual Property, Deception and Spam](https://play.google.com/about/ip-deception-spam/impersonation-ip/)**.
 
-Assuming you have just created a **pink** theme for FairPlayer here are some theme names you could consider:
+Assuming you have just created a **pink** theme for FairPlayer here are some theme names you might consider:
 
   - **GOOD**
     - Pink FairPlayer **Theme**
@@ -73,4 +73,4 @@ Assuming you have just created a **pink** theme for FairPlayer here are some the
     - **FairPlayer Pink**: theme names must **NOT** start with FairPlayer
     - **Pink Theme**: too generic, users should know what they are installing
 
-Failure to comply with these naming policies **could** get your themes and/or Google Play developer account **suspended**.
+Failure to comply with these naming policies will **likely** get your themes and/or Google Play developer account **suspended**.
