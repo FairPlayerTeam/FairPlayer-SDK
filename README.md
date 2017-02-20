@@ -33,7 +33,7 @@ You are **free** to use
 
 anywhere inside the **themes** you create including:
 
-  - The Google Play listing including:
+  - The Google Play listing:
     - Application title
     - Application short description
     - Application full description
