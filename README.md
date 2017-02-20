@@ -29,23 +29,3 @@ No need to worry about Android 4 / Android 5+ compatibility issues or missing Ja
 The **FairPlayer** name can only be used to uniquely identify **theme** Android applications that are compatible with the **FairPlayer Music Player** Android application according to the **[FairPlayer Theme SDK License](https://github.com/FairPlayerTeam/FairPlayer-SDK/blob/master/License.md)**.
 
 We are making the **FairPlayer Theme SDK** available to the public free of charge so that anyone can create themes for FairPlayer and publish them on Google Play but not in a way that harms any user or our brand.
-
-### Usage Notes
-
-Please respect Google Play's **naming conventions**.
-
-Assuming you have just created a **pink** theme for FairPlayer here are some theme names you could consider:
-
-  - **GOOD**
-    - Pink FairPlayer **Theme**
-    - Pink FairPlayer **Skin**
-    - Pink **skin for** FairPlayer
-    - Pink **theme for** FairPlayer
-    - Pink Player Skin
-    - Pink Player Theme
-
-  - **BAD**
-    - **FairPlayer Pink**: theme names must **NOT** start with FairPlayer
-    - **Pink Theme**: too generic, users should know what they are installing
-
-Failure to comply with these naming restrictions **could** get your themes and/or Google Play developer account **suspended**.
