@@ -51,9 +51,9 @@ under the following conditions:
     - The resources provided with this SDK are present
     - The end user can actually **apply and use** your theme with FairPlayer
   - You **never imply a direct relationship** with FairPlayer's creators
-    - You do not use a developer name similar to "**FairPlayer Team**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
-    - You do not imply either in the Google Play Store listing (theme description and/or any visual elements) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.) a direct relationship with FairPlayer's creators
-    - You do not imply a direct relationship with FairPlayer's creators in **any form of communication** (e-mail, social media, blogs, vlogs, interviews, forums, websites, written or printed media etc.) in **any context** with **any third party**
+    - Either in the Google Play Store listing (theme description and/or any visual elements) or inside the application (menu elements, text or visual elements, notifications, Toast messages etc.)
+    - In **any form of communication** (e-mail, social media, blogs, vlogs, interviews, forums, websites, written or printed media etc.) in **any context** with **any third party**
+  - You do not use a developer name similar to "**FairPlayer Team**" or that includes the words "**FairPlayer**" or "**Fair Player**" in any form (case insensitive)
 
 Your theme can also be compatible with other 3rd party applications as long as it retains **full compatibility** with FairPlayer.
 
