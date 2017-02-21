@@ -1,4 +1,4 @@
-# FairPlayer - License
+# FairPlayer SDK - Terms and Licenses
 
 The **FairPlayer Theme SDK** is governed by these terms and licenses:
 
