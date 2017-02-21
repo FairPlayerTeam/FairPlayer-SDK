@@ -6,7 +6,7 @@ You can download the most recent version of FairPlayer on Google Play.
 
 [![FairPlayer Music Player](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.fairplayer)
 
-We have included a complete Eclipse project with:
+We have **[included a complete Eclipse project](https://github.com/FairPlayerTeam/FairPlayer-SDK/releases/latest)** with:
 
   - All the necessary resources
   - The "**Apply theme**" mechanism
