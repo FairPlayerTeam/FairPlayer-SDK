@@ -1,0 +1,56 @@
+# ProGuard settings
+
+-dontpreverify
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-dontskipnonpubliclibraryclassmembers
+-libraryjars libs
+-optimizations !code/simplification/arithmetic,!code/simplification/cast,!field/*,!class/merging/*
+-optimizationpasses 5
+
+-keepattributes InnerClasses, EnclosingMethod
+-keep class * extends java.util.ListResourceBundle {
+    protected Object[][] getContents();
+}
+
+-keep public class com.google.android.gms.common.internal.safeparcel.SafeParcelable {
+    public static final *** NULL;
+}
+
+-keepnames @com.google.android.gms.common.annotation.KeepName class *
+-keepclassmembernames class * {
+    @com.google.android.gms.common.annotation.KeepName *;
+}
+
+-keepnames class * implements android.os.Parcelable {
+    public static final ** CREATOR;
+}
+
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+
+-keep class **.R$*
+
+-keep public class **.Index$WebAppInterface
+-keep public class * implements **.Index$WebAppInterface
+-keepclassmembers class **.Index$WebAppInterface { 
+    <methods>; 
+}
+
+-keepattributes JavascriptInterface
+
+-dontwarn com.google.**
+-dontwarn android.support.v*.**
+-keep class android.support.v*.* { *; }
+-keep interface android.support.v*.* { *; }
+
+-assumenosideeffects class android.util.Log {
+    public static *** d(...);
+    public static *** w(...);
+    public static *** v(...);
+    public static *** i(...);
+}
+
+-keepattributes *Annotation*
+-keepattributes Signature
