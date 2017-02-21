@@ -2,7 +2,7 @@
 
 The **FairPlayer Theme SDK** is governed by these terms and licenses:
 
-## 1. FairPlayer Theme SDK source code
+## 1. FairPlayer Theme SDK source code License
 **Copyright 2016-2017 FairPlayer Team**
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,7 +17,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-## 2. FairPlayer Logo <img src="https://github.com/FairPlayerTeam/FairPlayer-SDK/raw/master/fairplayer-logo.png" width="40">
+## 2. FairPlayer Logo <img src="https://github.com/FairPlayerTeam/FairPlayer-SDK/raw/master/fairplayer-logo.png" width="40"> License
 The **FairPlayer Logo** can be used, reproduced, and modified freely in marketing communications.
 
 When using the FairPlayer Logo or any modification of it, proper attribution is required under the terms of the **[Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)**:
@@ -28,7 +28,7 @@ You may not file trademark applications incorporating the **FairPlayer Logo** or
 
 Please make sure that the **FairPlayer Logo** does not cover more than 25% of your theme's icon.
 
-## 3. The "FairPlayer" mark
+## 3. The "FairPlayer" mark Terms of Use
 
 The **FairPlayer** name can only be used to uniquely identify **themes** that are compatible with the **[FairPlayer Music Player](https://play.google.com/store/apps/details?id=com.fairplayer)** application using **this SDK**.
 
